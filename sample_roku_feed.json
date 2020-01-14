@@ -1,0 +1,741 @@
+{
+   "providerName":"Beta Max TV",
+   "language":"en-US",
+   "lastUpdated":"2017-07-13T18:12:32.125Z",
+   "movies":[
+      {
+         "id":"134440658",
+         "title":"Count Dracula and His Vampire Bride",
+         "shortDescription":"The prince of darkness threatens the world with biological warfare and only his archenemy Van Helsing can stop him.",
+         "thumbnail":"https://i.vimeocdn.com/video/527974747_800x450.jpg",
+         "genres":[
+            "horror"
+         ],
+         "tags":[
+            "vampires",
+            "70s"
+         ],
+         "releaseDate":"1978-10-01",
+         "content":{
+            "dateAdded":"2017-07-13T14:14:54.431Z",
+            "captions":[
+
+            ],
+            "duration":5216,
+            "adBreaks":[
+               "00:00:00"
+            ],
+            "videos":[
+               {
+                  "url":"https://player.vimeo.com/external/134440658.m3u8?s=881ca1f478019e92759cf4a57b05049a0c848cc2",
+                  "quality":"SD",
+                  "videoType":"HLS"
+               }
+            ]
+         }
+      },
+      {
+         "id":"134449514",
+         "title":"Day of the Panther",
+         "shortDescription":"An Aussie martial artist goes undercover to seek vengeance for the death of his partner.",
+         "thumbnail":"https://i.vimeocdn.com/video/527976518_800x450.jpg",
+         "genres":[
+            "science fiction"
+         ],
+         "tags":[
+            "martial arts",
+            "80s"
+         ],
+         "releaseDate":"1988-03-11",
+         "content":{
+            "dateAdded":"2017-07-13T14:14:54.431Z",
+            "captions":[
+
+            ],
+            "duration":5028,
+            "adBreaks":[
+               "00:00:00"
+            ],
+            "videos":[
+               {
+                  "url":"https://player.vimeo.com/external/134449514.m3u8?s=cc38baf9ce10791677f17597cd444e4467f234b4",
+                  "quality":"SD",
+                  "videoType":"HLS"
+               }
+            ]
+         }
+      },
+      {
+         "id":"134616753",
+         "title":"Slipstream",
+         "shortDescription":"A bounty hunter and his prisoner on the run from the law encounter several strange pockets of society in a bleak futuristic landscape.",
+         "thumbnail":"https://i.vimeocdn.com/video/528239764_800x450.jpg",
+         "genres":[
+            "science fiction"
+         ],
+         "tags":[
+            "martial apocalypse",
+            "80s"
+         ],
+         "releaseDate":"1989-06-02",
+         "content":{
+            "dateAdded":"2017-07-13T14:14:54.431Z",
+            "captions":[
+
+            ],
+            "duration":6134,
+            "adBreaks":[
+               "00:00:00"
+            ],
+            "videos":[
+               {
+                  "url":"https://player.vimeo.com/external/134616753.m3u8?s=5524898a37b481c7fde8e1bc6752b9e169ba4286",
+                  "quality":"SD",
+                  "videoType":"HLS"
+               }
+            ]
+         }
+      },
+      {
+         "id":"134855122",
+         "title":"Don't Look in the Basement",
+         "shortDescription":"A young psychiatric nurse goes to work at a lonesome asylum following a murder. There, she experiences varying degrees of torment from the patients.",
+         "thumbnail":"https://i.vimeocdn.com/video/528624020_800x450.jpg",
+         "genres":[
+            "horror"
+         ],
+         "tags":[
+            "70s"
+         ],
+         "releaseDate":"1973-09-01",
+         "content":{
+            "dateAdded":"2017-07-20T14:14:54.431Z",
+            "captions":[
+
+            ],
+            "duration":5356,
+            "adBreaks":[
+               "00:00:00"
+            ],
+            "videos":[
+               {
+                  "url":"https://player.vimeo.com/external/134855122.m3u8?s=460e50033f7e02f271672a5c7c3b38f64de2a621",
+                  "quality":"SD",
+                  "videoType":"HLS"
+               }
+            ]
+         }
+      },
+      {
+         "id":"134616007",
+         "title":"Abraxas, Guardian of the Galaxy",
+         "shortDescription":"An alien law enforcement officer arrives on Earth to apprehend a renegade of his own race who impregnates a woman with a potentially destructive mutant embryo.",
+         "thumbnail":"https://i.vimeocdn.com/video/528187440_800x450.jpg",
+         "genres":[
+            "science fiction"
+         ],
+         "tags":[
+            "aliens",
+            "90s"
+         ],
+         "releaseDate":"1990-12-12",
+         "content":{
+            "dateAdded":"2017-07-13T14:14:54.431Z",
+            "captions":[
+
+            ],
+            "duration":5203,
+            "adBreaks":[
+               "00:00:00"
+            ],
+            "videos":[
+               {
+                  "url":"https://player.vimeo.com/external/134616007.m3u8?s=86bdf715a93afcb6726fbc67e7be479f633a3475",
+                  "quality":"SD",
+                  "videoType":"HLS"
+               }
+            ]
+         }
+      },
+      {
+         "id":"134777229",
+         "title":"TNT Jackson",
+         "shortDescription":"When a martial artist's brother goes missing, she heads to Hong Kong to find him. With the help of her new friend Joe, she busts heads while unraveling the mystery of disappearance.",
+         "thumbnail":"https://i.vimeocdn.com/video/528526200_800x450.jpg",
+         "genres":[
+            "action"
+         ],
+         "tags":[
+            "blaxploitation",
+            "70s"
+         ],
+         "releaseDate":"1975-01-17",
+         "content":{
+            "dateAdded":"2017-07-13T14:14:54.431Z",
+            "captions":[
+
+            ],
+            "duration":4286,
+            "adBreaks":[
+               "00:00:00"
+            ],
+            "videos":[
+               {
+                  "url":"https://player.vimeo.com/external/134777229.m3u8?s=159f7fa6541fd58fae765f3b2838d028e2be7d21",
+                  "quality":"SD",
+                  "videoType":"HLS"
+               }
+            ]
+         }
+      },
+      {
+         "id":"134777239",
+         "title":"Prisoners of the Lost Universe",
+         "shortDescription":"A handyman and a TV reporter accidentally travel into a prehistoric parallel universe to track down a missing doctor.",
+         "thumbnail":"https://i.vimeocdn.com/video/528526048_800x450.jpg",
+         "genres":[
+            "science fiction"
+         ],
+         "tags":[
+            "fantasy",
+            "80s"
+         ],
+         "releaseDate":"1983-08-15",
+         "content":{
+            "dateAdded":"2017-07-13T14:14:54.431Z",
+            "captions":[
+
+            ],
+            "duration":5657,
+            "adBreaks":[
+               "00:00:00"
+            ],
+            "videos":[
+               {
+                  "url":"https://player.vimeo.com/external/134777239.m3u8?s=fd1b3a60da5cdced6d0ed73006ed383d95fcd195",
+                  "quality":"SD",
+                  "videoType":"HLS"
+               }
+            ]
+         }
+      },
+      {
+         "id":"134881614",
+         "title":"The Creeper",
+         "shortDescription":"5 doctors on a wilderness retreat get stalked by a bunch of disfigured crazed killers.",
+         "thumbnail":"https://i.vimeocdn.com/video/528720851_800x450.jpg",
+         "genres":[
+            "horror"
+         ],
+         "tags":[
+            "forrest",
+            "70s"
+         ],
+         "releaseDate":"1978-08-15",
+         "content":{
+            "dateAdded":"2017-07-13T14:14:54.431Z",
+            "captions":[
+
+            ],
+            "duration":5377,
+            "adBreaks":[
+               "00:00:00"
+            ],
+            "videos":[
+               {
+                  "url":"https://player.vimeo.com/external/134881614.m3u8?s=ee731977831bf0d940e5acfdc16a658c3248afb8",
+                  "quality":"SD",
+                  "videoType":"HLS"
+               }
+            ]
+         }
+      },
+      {
+         "id":"134881653",
+         "title":"Horror of the Zombies",
+         "shortDescription":"An unscrupulous businessman mounts a daring rescue when two swimsuit models go missing after encountering a phantom galleon.",
+         "thumbnail":"https://i.vimeocdn.com/video/528721392_800x450.jpg",
+         "genres":[
+            "horror"
+         ],
+         "tags":[
+            "zombies",
+            "70s"
+         ],
+         "releaseDate":"1974-08-01",
+         "content":{
+            "dateAdded":"2017-07-20T14:14:54.431Z",
+            "captions":[
+
+            ],
+            "duration":5372,
+            "adBreaks":[
+               "00:00:00"
+            ],
+            "videos":[
+               {
+                  "url":"https://player.vimeo.com/external/134881653.m3u8?s=2134b00fcb56f29c3b6ae7624102b3604f92d45c",
+                  "quality":"SD",
+                  "videoType":"HLS"
+               }
+            ]
+         }
+      },
+      {
+         "id":"134881678",
+         "title":"Horror Rises from the Tomb",
+         "shortDescription":"An executed warlock returns to life centuries later to seek revenge against the descendants of the men who beheaded him and killed his wife.",
+         "thumbnail":"https://i.vimeocdn.com/video/528722410_800x450.jpg",
+         "genres":[
+            "horror"
+         ],
+         "tags":[
+            "Paul Naschy",
+            "70s"
+         ],
+         "releaseDate":"1973-08-01",
+         "content":{
+            "dateAdded":"2017-07-20T14:14:54.431Z",
+            "captions":[
+
+            ],
+            "duration":4800,
+            "adBreaks":[
+               "00:00:00"
+            ],
+            "videos":[
+               {
+                  "url":"https://player.vimeo.com/external/134881678.m3u8?s=bb2d042d27ec2cef7dd06215dc96c52e6a9efedb",
+                  "quality":"SD",
+                  "videoType":"HLS"
+               }
+            ]
+         }
+      },
+      {
+         "id":"134890450",
+         "title":"The Vampire’s Night Orgy",
+         "shortDescription":"A busload of tourists are forced to pull over at a small European village. While the locals seem friendly at first, they hide a dark secret.",
+         "thumbnail":"https://i.vimeocdn.com/video/528823225_800x450.jpg",
+         "genres":[
+            "horror"
+         ],
+         "tags":[
+            "vampires",
+            "70s"
+         ],
+         "releaseDate":"1973-09-01",
+         "content":{
+            "dateAdded":"2017-07-20T14:14:54.431Z",
+            "captions":[
+
+            ],
+            "duration":4719,
+            "adBreaks":[
+               "00:00:00"
+            ],
+            "videos":[
+               {
+                  "url":"https://player.vimeo.com/external/134890450.m3u8?s=8bb8f8d5d3d9885f93d25aefb819b6238f9dc0a9",
+                  "quality":"SD",
+                  "videoType":"HLS"
+               }
+            ]
+         }
+      },
+      {
+         "id":"134908908",
+         "title":"The War of the Robots",
+         "shortDescription":"When aliens kidnap a couple of scientists a group of brave soldiers are tasked with their rescue and stopping a catastrophic invasion.",
+         "thumbnail":"https://i.vimeocdn.com/video/528823871_800x450.jpg",
+         "genres":[
+            "science fiction"
+         ],
+         "tags":[
+            "androids",
+            "70s"
+         ],
+         "releaseDate":"1978-04-27",
+         "content":{
+            "dateAdded":"2017-07-20T14:14:54.431Z",
+            "captions":[
+
+            ],
+            "duration":5992,
+            "adBreaks":[
+               "00:00:00"
+            ],
+            "videos":[
+               {
+                  "url":"https://player.vimeo.com/external/134908908.m3u8?s=b00d98ca2c6151c9b50e29511eb5b4237fb435cf",
+                  "quality":"SD",
+                  "videoType":"HLS"
+               }
+            ]
+         }
+      },
+      {
+         "id":"134940946",
+         "title":"Manos: The Hands of Fate",
+         "shortDescription":"After a long drive in the Texas desert, a polygamous pagan cult traps a family at a secluded lodge.",
+         "thumbnail":"https://i.vimeocdn.com/video/528825897_800x450.jpg",
+         "genres":[
+            "horror"
+         ],
+         "tags":[
+            "occult",
+            "60s"
+         ],
+         "releaseDate":"1966-11-15",
+         "content":{
+            "dateAdded":"2017-07-20T14:14:54.431Z",
+            "captions":[
+
+            ],
+            "duration":4117,
+            "adBreaks":[
+               "00:00:00"
+            ],
+            "videos":[
+               {
+                  "url":"https://player.vimeo.com/external/134940946.m3u8?s=80a031a5e04f9b45cc83babe64ffc99c29dc515f",
+                  "quality":"SD",
+                  "videoType":"HLS"
+               }
+            ]
+         }
+      },
+      {
+         "id":"134941029",
+         "title":"Fangs of the Living Dead",
+         "shortDescription":"When a young girl visits her newly inherited castle, she learns about her family's close ties to witchcraft and vampires.",
+         "thumbnail":"https://i.vimeocdn.com/video/528864366_800x450.jpg",
+         "genres":[
+            "horror"
+         ],
+         "tags":[
+            "vampires",
+            "60s"
+         ],
+         "releaseDate":"1969-11-15",
+         "content":{
+            "dateAdded":"2017-07-20T14:14:54.431Z",
+            "captions":[
+
+            ],
+            "duration":4423,
+            "adBreaks":[
+               "00:00:00"
+            ],
+            "videos":[
+               {
+                  "url":"https://player.vimeo.com/external/134941029.m3u8?s=043b3bc3edb17448c43dc2261e8dad2b713a4fb3",
+                  "quality":"SD",
+                  "videoType":"HLS"
+               }
+            ]
+         }
+      },
+      {
+         "id":"134941066",
+         "title":"Bloody Pit of Horror",
+         "shortDescription":"A man who believes himself to be the reincarnation of The Scarlet Executioner preys upon a group of models and a photographer inside of a remote castle.",
+         "thumbnail":"https://i.vimeocdn.com/video/528866087_800x450.jpg",
+         "genres":[
+            "horror"
+         ],
+         "tags":[
+            "60s"
+         ],
+         "releaseDate":"1965-11-28",
+         "content":{
+            "dateAdded":"2017-07-20T14:14:54.431Z",
+            "captions":[
+
+            ],
+            "duration":4414,
+            "adBreaks":[
+               "00:00:00"
+            ],
+            "videos":[
+               {
+                  "url":"https://player.vimeo.com/external/134941066.m3u8?s=e0b7f0024b3780f07dce6db914c2c2563d586957",
+                  "quality":"SD",
+                  "videoType":"HLS"
+               }
+            ]
+         }
+      },
+      {
+         "id":"134941107",
+         "title":"It Happened at Nightmare Inn",
+         "shortDescription":"When a women goes in search of her missing sister, she comes across a small inn run by two homicidal maniacs.",
+         "thumbnail":"https://i.vimeocdn.com/video/528866904_800x450.jpg",
+         "genres":[
+            "horror"
+         ],
+         "tags":[
+            "60s"
+         ],
+         "releaseDate":"1973-10-01",
+         "content":{
+            "dateAdded":"2017-07-20T14:14:54.431Z",
+            "captions":[
+
+            ],
+            "duration":4060,
+            "adBreaks":[
+               "00:00:00"
+            ],
+            "videos":[
+               {
+                  "url":"https://player.vimeo.com/external/134941107.m3u8?s=1a64d363a1481e855a68309ecdc8b48b707b2eeb",
+                  "quality":"SD",
+                  "videoType":"HLS"
+               }
+            ]
+         }
+      },
+      {
+         "id":"134952001",
+         "title":"House by the Cemetery",
+         "shortDescription":"A New England home hides a particularly gruesome secret within its basement walls.",
+         "thumbnail":"https://i.vimeocdn.com/video/528869385_800x450.jpg",
+         "genres":[
+            "horror"
+         ],
+         "tags":[
+            "occult",
+            "80s"
+         ],
+         "releaseDate":"1981-06-01",
+         "content":{
+            "dateAdded":"2017-07-20T14:14:54.431Z",
+            "captions":[
+
+            ],
+            "duration":4946,
+            "adBreaks":[
+               "00:00:00"
+            ],
+            "videos":[
+               {
+                  "url":"https://player.vimeo.com/external/134952001.m3u8?s=752fe7ce0d48d36ff063658f665b267b395fc6c4",
+                  "quality":"SD",
+                  "videoType":"HLS"
+               }
+            ]
+         }
+      },
+      {
+         "id":"134981548",
+         "title":"Werewolf Of Washington",
+         "shortDescription":"The assistant to the President has a deadly secret.  He is a werewolf.",
+         "thumbnail":"https://i.vimeocdn.com/video/528869645_800x450.jpg",
+         "genres":[
+            "horror"
+         ],
+         "tags":[
+            "werewolves",
+            "70s"
+         ],
+         "releaseDate":"1973-10-01",
+         "content":{
+            "dateAdded":"2017-07-20T14:14:54.431Z",
+            "captions":[
+
+            ],
+            "duration":5341,
+            "adBreaks":[
+               "00:00:00"
+            ],
+            "videos":[
+               {
+                  "url":"https://player.vimeo.com/external/134981548.m3u8?s=6f421c58d9bc2c11d4f01dc57b0eac2b6736a6a8",
+                  "quality":"SD",
+                  "videoType":"HLS"
+               }
+            ]
+         }
+      },
+      {
+         "id":"134981662",
+         "title":"Night of Bloody Horror",
+         "shortDescription":"When a former mental patient's former lovers turn up dead, he becomes the prime suspect.",
+         "thumbnail":"https://i.vimeocdn.com/video/529159200_800x450.jpg",
+         "genres":[
+            "horror"
+         ],
+         "tags":[
+            "60s"
+         ],
+         "releaseDate":"1969-05-21",
+         "content":{
+            "dateAdded":"2017-07-20T14:14:54.431Z",
+            "captions":[
+
+            ],
+            "duration":4645,
+            "adBreaks":[
+               "00:00:00"
+            ],
+            "videos":[
+               {
+                  "url":"https://player.vimeo.com/external/134981662.m3u8?s=078af4b3318e235d1786a5a63892b46f3f196d3f",
+                  "quality":"SD",
+                  "videoType":"HLS"
+               }
+            ]
+         }
+      },
+      {
+         "id":"134983646",
+         "title":"The Night Evelyn Came Out of Her Grave",
+         "shortDescription":"A wealthy widower lures beautiful red-heads back to his decaying castle for nights of torture and murder.",
+         "thumbnail":"https://i.vimeocdn.com/video/645930495_800x450.jpg",
+         "genres":[
+            "horror"
+         ],
+         "tags":[
+            "70s"
+         ],
+         "releaseDate":"1971-08-18",
+         "content":{
+            "dateAdded":"2017-07-20T14:14:54.431Z",
+            "captions":[
+
+            ],
+            "duration":5895,
+            "adBreaks":[
+               "00:00:00"
+            ],
+            "videos":[
+               {
+                  "url":"https://player.vimeo.com/external/134983646.m3u8?s=7ad6ea7809d84b8bba29f953b4e385d2a28354de",
+                  "quality":"SD",
+                  "videoType":"HLS"
+               }
+            ]
+         }
+      },
+      {
+         "id":"134984282",
+         "title":"The Devil's Nightmare",
+         "shortDescription":"Satan sets his sights on a group of stranded tourists, using a beautiful seductress to murder each one.",
+         "thumbnail":"https://i.vimeocdn.com/video/645933402_800x450.jpg",
+         "genres":[
+            "horror"
+         ],
+         "tags":[
+            "occult",
+            "70s"
+         ],
+         "releaseDate":"1971-04-01",
+         "content":{
+            "dateAdded":"2017-07-20T14:14:54.431Z",
+            "captions":[
+
+            ],
+            "duration":5609,
+            "adBreaks":[
+               "00:00:00"
+            ],
+            "videos":[
+               {
+                  "url":"https://player.vimeo.com/external/134984282.m3u8?s=497f602d7fee04c0bfac2afaae932233202934d0",
+                  "quality":"SD",
+                  "videoType":"HLS"
+               }
+            ]
+         }
+      },
+      {
+         "id":"135046975",
+         "title":"Death Warmed Up",
+         "shortDescription":"A scientist hypnotizes a boy to kills his parents, landing him in a mental institution. Now as and adult, he returns to seek revenge against the man who ruined his life.",
+         "thumbnail":"https://i.vimeocdn.com/video/529315676_800x450.jpg",
+         "genres":[
+            "horror"
+         ],
+         "tags":[
+            "killers",
+            "80s"
+         ],
+         "releaseDate":"1985-04-25",
+         "content":{
+            "dateAdded":"2017-07-20T14:14:54.431Z",
+            "captions":[
+
+            ],
+            "duration":4922,
+            "adBreaks":[
+               "00:00:00"
+            ],
+            "videos":[
+               {
+                  "url":"https://player.vimeo.com/external/135046975.m3u8?s=523e5bc3674c076ba1e6b06a89d201d9d2c9f4a9",
+                  "quality":"SD",
+                  "videoType":"HLS"
+               }
+            ]
+         }
+      }
+   ],
+   "playlists":[
+      {
+         "name":"sci-fi",
+         "itemIds":[
+            "134777239",
+            "134616007",
+            "134616753",
+            "134908908"
+         ]
+      },
+      {
+         "name":"horror",
+         "itemIds":[
+            "134440658",
+            "134855122",
+            "134881614",
+            "134881653",
+            "134881678",
+            "134890450",
+            "134940946",
+            "134941029",
+            "134941066",
+            "134941107",
+            "134952001",
+            "134981548",
+            "134981662",
+            "134983646",
+            "134984267",
+            "134984282",
+            "135046975"
+         ]
+      },
+      {
+         "name":"action",
+         "itemIds":[
+            "134777229",
+            "134449514"
+         ]
+      }
+   ],
+   "categories":[
+      {
+         "name":"Science Fiction",
+         "playlistName":"sci-fi",
+         "order":"manual"
+      },
+      {
+         "name":"Horror",
+         "playlistName":"horror",
+         "order":"manual"
+      },
+      {
+         "name":"Action",
+         "playlistName":"action",
+         "order":"manual"
+      }
+   ]
+}
